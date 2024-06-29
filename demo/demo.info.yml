@@ -1,0 +1,5 @@
+name: 'Demo'
+type: module
+description: 'This is demo module for learning purpose.'
+package: Custom
+core_version_requirement: ^9 || ^10

@@ -1,0 +1,5 @@
+services:
+  demo.drush_commands:
+    class: Drupal\demo\Commands\CustomCommands
+    tags:
+      - { name: drush.command }
